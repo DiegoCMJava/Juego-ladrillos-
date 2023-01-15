@@ -1,0 +1,24 @@
+body {
+    display:flex;
+    justify-content: center;
+  }
+  canvas {
+    background: #c8f0f6;
+    margin-top: 20px;
+  }
+
+  footer {
+    background: rgb(238,176,75);
+background: linear-gradient(255deg, rgba(238,176,75,1) 57%, rgba(243,176,73,1) 75%);
+    width: 50%;
+    padding: 1.25rem;
+    text-align: center;
+    margin: 1rem 1rem;
+    position: absolute;
+    bottom: 0;
+  }
+
+  a {
+    text-decoration: none;
+    font-family: Impact;
+  }
